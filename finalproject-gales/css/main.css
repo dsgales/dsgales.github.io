@@ -1,0 +1,96 @@
+/*Your CSS goes here. This is the only file you'll need to modify for this assignment.*/
+body {
+	margin: 0px;
+	background-color: floralwhite;
+}
+.site-banner {
+	background: saddlebrown;
+	text-align: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 0px;
+	padding-right: 0px;
+	color: white;
+	font-family: Academy Engraved LET, serif;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.logo {
+	width: 188px;
+}
+.article {
+	max-width: 1200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.story-header {
+	font-family: Optima, sans-serif;
+}
+
+
+h1 {
+	font-family: Georgia, serif;
+	size: 46px;
+	margin-bottom: none;
+}
+.deck{
+	font-size: 20px;
+}
+.byline {
+	font-size: 16px;
+	margin-bottom: 2px;
+}
+
+.story-body {
+	font-family: Georgia, serif;
+	font-size: 20px;
+	line-height: 32px;
+	max-width: 700px;
+}
+.photo {
+	width: 100%;
+}
+.photo-caption {
+	color: #666666;
+	size: 14px;
+	margin-top: none;
+	line-height: 18px;
+	font-family: Optima, sans-serif;
+}	
+
+h3 {
+	font-family: Optima, sans-serif;
+	font-size: 16px;
+	font-weight:lighter;
+	
+}
+h2 {
+	font-family: Optima ,sans-serif;
+	size: 28px;
+	margin-bottom: none;
+}
+
+
+/*unvisited link*/
+a:link{
+	color: forestgreen;
+}
+a:hover{
+	color: darkred;
+}
+a:visited{
+	color: lilac;
+}
+
+.sub-head-1 {
+	size: 18px;
+	text-decoration: underline;
+	font-family: Optima ,sans-serif;
+
+}
+
